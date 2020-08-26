@@ -1,1 +1,1 @@
-dummy file
+console.log('dummy file');
