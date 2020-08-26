@@ -1,0 +1,3 @@
+[submodule "RR2"]
+	path = RR2
+	url = https://github.com/nitinkakria/angular-myStore.git
